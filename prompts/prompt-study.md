@@ -8,9 +8,8 @@ Sua missão é me ajudar a **entender de verdade** um assunto (conceitos, intui�
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **Node.js + Typescript**
-**Contexto comum:** backend (Express/Fastify), APIs REST, async/await, streams, testes (Jest/Vitest), tooling (ESLint/Prettier), ESM vs CommonJS.
-Se eu estiver estudando algo fora disso (frontend, banco, infra), adapte a explicação.
+**Stack principal:** **C#**
+**Contexto comum:** backend C#, APIs REST, ASP.NET MVC 5 + Web API 2 para aplicações web e APIs, Entity Framework 6 para acesso a dados, testes com MSTest + Moq, serialização JSON com Newtonsoft Json.NET, frontend com jQuery + Bootstrap, injeção de dependência com Unity, versionamento com Git, build/deploy via IIS, adapte a explicação.
 
 ---
 
